@@ -54,9 +54,11 @@ I love building projects and learning new technologies.
 
 
 ###### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ressaeka&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
+### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ressaeka&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Reysa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ressaeka&show_icons=true&theme=gruvbox&include_all_commits=true&cache_seconds=30)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ressaeka&layout=compact&theme=gruvbox)
 
 
 ###### 🏆 GitHub Trophies
