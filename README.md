@@ -56,6 +56,7 @@ I love building projects and learning new technologies.
 ###### 📊 GitHub Stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ressaeka&layout=compact&theme=gruvbox)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ressaeka&layout=compact&theme=gruvbox)
 
 
