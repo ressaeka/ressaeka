@@ -32,10 +32,14 @@ Always open to collaboration, learning, and sharing ideas.
 
 ---
 ###### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ressaeka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=ressaeka&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ressaeka&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ressaeka&icon=5&color=12" alt="Visit Count" />
+</p>
 
 <img src="https://raw.githubusercontent.com/ressaeka/ressaeka/output/snake.svg" alt="Snake animation" />
 
