@@ -31,15 +31,6 @@ Always open to collaboration, learning, and sharing ideas.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-###### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ressaeka&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ressaeka&icon=5&color=12" alt="Visit Count" />
-</p>
 
 <img src="https://raw.githubusercontent.com/ressaeka/ressaeka/output/snake.svg" alt="Snake animation" />
 
