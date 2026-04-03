@@ -34,7 +34,7 @@ Always open to collaboration, learning, and sharing ideas.
 
 ###### 📊 GitHub Stats:
 
-![Reysa Eka Saputra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ressaeka&layout=compact&theme=gruvbox&cache_seconds=1800)
+![Reysa Eka Saputra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ressaeka&show_icons=true&theme=gruvbox)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ressaeka&layout=compact&theme=gruvbox)
 
