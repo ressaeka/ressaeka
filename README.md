@@ -11,7 +11,7 @@ I love building projects and learning new technologies.
 
 - 🔭 Currently working on : **Gemini AI Chatbot Project**
 - 🌱 Currently learning : **Machine Learning, API Integration, and Python Development**
-- 💬 Ask me about : **Python, Backend, API**
+- 💬 Ask me about : **JavaScripts, Python, Backend, API**
 - ⚡ Fun fact : I enjoy solving coding challenges and contributing to open-source.
 
 Always open to collaboration, learning, and sharing ideas.
