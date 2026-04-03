@@ -31,14 +31,6 @@ Always open to collaboration, learning, and sharing ideas.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-###### 📊 GitHub Stats:
-
-![Reysa Eka Saputra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ressaeka&show_icons=true&theme=gruvbox)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ressaeka&layout=compact&theme=gruvbox)
-
----
 ###### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ressaeka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
