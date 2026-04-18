@@ -29,5 +29,8 @@ Always open to collaboration, learning, and sharing ideas.
 
 ---
 
+[![Reysa Eka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ressaeka)](https://github.com/ressaeka/github-readme-stats)
+
+
 <img src="https://raw.githubusercontent.com/ressaeka/ressaeka/output/snake.svg" alt="Snake animation" />
 
