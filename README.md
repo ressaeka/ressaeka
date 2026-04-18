@@ -6,12 +6,12 @@
 
 ### 💫 About Me:
 
-Passionate Backend Developer & AI Enthusiast from Indonesia.
-I enjoy building production-ready projects and continuously expanding my technical depth.
+I'm a passionate **Backend Developer** & **AI Enthusiast** from Indonesia.  
+Passionate Backend Developer & AI Enthusiast from Indonesia. I enjoy building production-ready projects and continuously expanding my technical depth.
 
-- 🌱 Currently learning : Machine Learning, API Integration, Python Development
-- 💬 Ask me about : JavaScript (Express.js, Node.js), Python, Backend Architecture, REST APIs
-- ⚡ Fun fact : I actively solve coding challenges and contribute to open-source.
+- 🌱 Currently learning : **Machine Learning, API Integration, and Python Development, JavaScript (Express.js + Node.js)**
+- 💬 Ask me about : **JavaScript, Python, Backend Architecture, REST APIs**
+- ⚡ Fun fact : I enjoy solving coding challenges and contributing to open-source.
 
 Open for collaboration, knowledge sharing, and new opportunities.
 
