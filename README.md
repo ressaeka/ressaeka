@@ -1,4 +1,4 @@
-## 👋 Hello World! I'm Reysa Eka Saputra
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+Sans&weight=900&size=35&pause=1000&color=6366F1&vCenter=true&width=500&lines=Hi%2C+I'm+Reysa+Eka+Saputra;Backend+Developer+%7C+AI+Enthusiast;Building+smart+systems;Open+for+collaboration!)](https://git.io/typing-svg)
 
 ![Reysa Eka Saputra](img/github-header-image%20(1).png)
 
@@ -39,3 +39,7 @@ Always open to collaboration, learning, and sharing ideas.
 ![Profile Views](https://komarev.com/ghpvc/?username=ressaeka&color=blue&style=flat-square)
 
 <img src="https://raw.githubusercontent.com/ressaeka/ressaeka/output/snake.svg" alt="Snake animation" />
+
+---
+
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=white" />
