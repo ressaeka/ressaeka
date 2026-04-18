@@ -9,6 +9,7 @@
 I'm a passionate **Backend Developer** & **AI Enthusiast** from Indonesia.  
 Passionate Backend Developer & AI Enthusiast from Indonesia. I enjoy building production-ready projects and continuously expanding my technical depth.
 
+- 🔭 I'm currently working on : **Task Manager API** RESTful API for task management with user authentication.
 - 🌱 Currently learning : **Machine Learning, API Integration, and Python Development, JavaScript (Express.js + Node.js)**
 - 💬 Ask me about : **JavaScript, Python, Backend Architecture, REST APIs**
 - ⚡ Fun fact : I enjoy solving coding challenges and contributing to open-source.
@@ -29,8 +30,18 @@ Always open to collaboration, learning, and sharing ideas.
 
 ---
 
-[![Reysa Eka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ressaeka)](https://github.com/ressaeka/github-readme-stats)
+### 📊 GitHub Stats:
 
+![Reysa Eka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ressaeka&show_icons=true&theme=gruvbox) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ressaeka&layout=compact&theme=gruvbox)
+
+---
+
+### 👁️ Profile Views:
+
+![Profile Views](https://komarev.com/ghpvc/?username=ressaeka&color=blue&style=flat-square)
+
+---
+
+### 🐍 Snake Animation:
 
 <img src="https://raw.githubusercontent.com/ressaeka/ressaeka/output/snake.svg" alt="Snake animation" />
-
