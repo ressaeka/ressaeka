@@ -39,7 +39,3 @@ Always open to collaboration, learning, and sharing ideas.
 ![Profile Views](https://komarev.com/ghpvc/?username=ressaeka&color=blue&style=flat-square)
 
 <img src="https://raw.githubusercontent.com/ressaeka/ressaeka/output/snake.svg" alt="Snake animation" />
-
----
-
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontColor=white" />
