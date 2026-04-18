@@ -32,13 +32,7 @@ Always open to collaboration, learning, and sharing ideas.
 
 ### 📊 GitHub Stats:
 
-![Reysa Eka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ressaeka&show_icons=true&theme=gruvbox) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ressaeka&layout=compact&theme=gruvbox)
-
----
-
-### 👁️ Profile Views:
-
-![Profile Views](https://komarev.com/ghpvc/?username=ressaeka&color=blue&style=flat-square)
+![Reysa Eka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ressaeka&show_icons=true&theme=gruvbox)   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ressaeka&layout=compact&theme=gruvbox)
 
 ---
 
