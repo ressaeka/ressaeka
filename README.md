@@ -6,13 +6,14 @@
 
 ### 💫 About Me:
 
-I'm a passionate **Backend Developer** & **AI Enthusiast** from Indonesia.  
-I love building projects and learning new technologies.
+Passionate Backend Developer & AI Enthusiast from Indonesia.
+I enjoy building production-ready projects and continuously expanding my technical depth.
 
-- 🔭 Currently working on : **Gemini AI Chatbot Project**
-- 🌱 Currently learning : **Machine Learning, API Integration, and Python Development**
-- 💬 Ask me about : **JavaScripts, Python, Backend, API**
-- ⚡ Fun fact : I enjoy solving coding challenges and contributing to open-source.
+- 🌱 Currently learning : Machine Learning, API Integration, Python Development
+- 💬 Ask me about : JavaScript (Express.js, Node.js), Python, Backend Architecture, REST APIs
+- ⚡ Fun fact : I actively solve coding challenges and contribute to open-source.
+
+Open for collaboration, knowledge sharing, and new opportunities.
 
 Always open to collaboration, learning, and sharing ideas.
 
