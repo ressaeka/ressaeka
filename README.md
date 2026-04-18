@@ -39,4 +39,3 @@ Always open to collaboration, learning, and sharing ideas.
 ![Profile Views](https://komarev.com/ghpvc/?username=ressaeka&color=blue&style=flat-square)
 
 <img src="https://raw.githubusercontent.com/ressaeka/ressaeka/output/snake.svg" alt="Snake animation" />
-0 commit commentsComments0 (0)Lock conversation
