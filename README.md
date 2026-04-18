@@ -30,11 +30,13 @@ Always open to collaboration, learning, and sharing ideas.
 
 ---
 
+![Reysa Eka Saputra's GitHub stats](https://github-readme-stats.vercel.app/api?username=ressaeka&layout=compact&theme=gruvbox&cache_seconds=1800)
 
-
-![Reysa Eka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ressaeka&show_icons=true&theme=gruvbox)            ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ressaeka&layout=compact&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ressaeka&layout=compact&theme=gruvbox)
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=ressaeka&color=blue&style=flat-square)
 
 <img src="https://raw.githubusercontent.com/ressaeka/ressaeka/output/snake.svg" alt="Snake animation" />
+0 commit commentsComments0 (0)Lock conversation
