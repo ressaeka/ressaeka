@@ -6,25 +6,15 @@
 
 ### 💫 About Me:
 
-I'm a passionate Backend Developer & AI Enthusiast from Indonesia.
+I'm a passionate **Backend Developer** & **AI Enthusiast** from Indonesia.  
 I enjoy building production-ready projects and continuously expanding my technical depth.
 
-🔭 Currently working on: 
-   - Task Manager API — RESTful API with JWT auth, pagination, soft delete, and deadline management
-   - Personal Finance Management System — in progress
+- 🔭 **Currently working on:** Task Manager API & Personal Finance Management System
+- 🌱 **Currently learning:** Machine Learning & Deep Learning (Python)
+- 💬 **Ask me about:** JavaScript (Node.js, Express), Python (Flask, Django, FastAPI), Backend Architecture, REST APIs, PostgreSQL
+- ⚡ **Fun fact:** I enjoy solving coding challenges and contributing to open-source
 
-🌱 Currently learning: 
-   - Machine Learning & Deep Learning (Python)
-   
-💬 Ask me about: 
-   - JavaScript (Node.js, Express)
-   - Python (Flask, Django, FastAPI)
-   - Backend Architecture & REST API Design
-   - PostgreSQL, MySQL, Database Design
-
-⚡ Fun fact: I enjoy solving coding challenges and contributing to open-source
-
-🚀 Open for collaboration, knowledge sharing, and new opportunities.
+**Open for collaboration, knowledge sharing, and new opportunities.** 🚀
 
 ---
 
